@@ -1,0 +1,38 @@
+nav{
+    background-color: #6dcaa8;
+}
+
+h1{
+    color: #aceab6;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: #aceab6;
+}
+
+#botao{
+    margin-bottom: 5%;
+}
+
+#formulario{
+    background-color: white;
+    border: 1px solid #aceab6;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+#result{
+    background-color: #6dcaa8;
+    border: 1px solid #aceab6;
+    border-left: 1px solid white;
+    border-radius: 10px;
+}
+
+#textoR{
+    padding-top: 10%;
+}

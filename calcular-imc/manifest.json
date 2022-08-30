@@ -1,0 +1,21 @@
+{
+    "name": "Calcular IMC",
+    "short_name": "IMC",
+    "icons": [
+        {
+            "src": "",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background-color": "white",
+    "theme_color": "white"
+}
